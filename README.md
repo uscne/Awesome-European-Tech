@@ -301,6 +301,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [ProtonMail](https://proton.me/mail) 🇨🇭 - Secure email with end-to-end encryption.
 - [Runbox](https://runbox.com/) 🇳🇴 - Email provider with privacy focus.
 - [Tutanota](https://tutanota.com/) 🇩🇪 - Encrypted email and calendar service.
+- [Lettermint](https://lettermint.co/) 🇳🇱 - Dutch transactional email service focused on privacy, deliverability, and developer experience.
 
 ### Marketing Tools
 - [Brevo](https://www.brevo.com/) 🇫🇷 - Email marketing software and CRM.
