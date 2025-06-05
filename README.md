@@ -187,7 +187,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Pareto Security](https://paretosecurity.com/) 🇸🇮 - Free apps to maintain a basic security hygiene with optional centralized monitoring.
 - [Unosecur](https://www.unosecur.com/) 🇩🇪 - Identity attack management made simple for modern enterprises.
 - [Prosopo Procaptcha](https://prosopo.io/) 🇬🇧 - Security-focused CAPTCHA solution to protect against bots and automation threats.
-
+- [Vysion](https://byronlabs.io/vysion) 🇪🇸 - Cyber threat intelligence platform that monitors darknets and cybercrime forums to provide real-time insights into emerging threats, including ransomware activities.
 
 ### Database Management Systems
 - [DuckDB](https://duckdb.org/) 🇳🇱 - An in-process SQL OLAP database management system.
