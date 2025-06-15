@@ -410,7 +410,6 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Clouding.io](https://clouding.io) 🇪🇸
 - [cloudscale](https://www.cloudscale.ch) 🇨🇭
 - [Combell Cloud](https://www.combell.com/en/cloud-server) 🇧🇪
-- [Contabo](https://www.contabo.com) 🇩🇪
 - [Gigas](https://gigas.com/cloud-vps) 🇪🇸
 - [Ginernet](https://ginernet.com) 🇪🇸
 - [GleSYS](https://glesys.se/) 🇸🇪
