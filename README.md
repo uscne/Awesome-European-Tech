@@ -249,7 +249,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [FileMail](https://filemail.com/) 🇳🇴 - Send large files up to 5GB for free.
 - [WeTransfer](https://wetransfer.com/) 🇳🇱 - Send large files fast.
 - [Sprend](https://sprend.com/) 🇸🇪 - Send large files for free online.
-- [NordLocker] (https://nordlocker.com/) 🇱🇹 - Encrypted file storage and end-to-end encrypted file transfers.
+- [NordLocker](https://nordlocker.com/) 🇱🇹 - Encrypted file storage and end-to-end encrypted file transfers.
 
 ### FinTech
 - [Adyen](https://www.adyen.com/) 🇳🇱 - Global payment processing for businesses.
@@ -342,7 +342,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [pCloud Pass](https://www.pcloud.com/pass) 🇨🇭
 - [Proton Pass](https://proton.me/pass) 🇨🇭
 - [uniqkey](https://www.uniqkey.eu/) 🇩🇰
-- [NordPass] (https://nordpass.com/) 🇱🇹
+- [NordPass](https://nordpass.com/) 🇱🇹
 
 ### Product Information Management
 - [Quable](https://www.quable.com/en) 🇫🇷 - PIM solution for product data management
