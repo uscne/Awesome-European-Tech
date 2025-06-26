@@ -49,6 +49,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 ---
 ## Index
 - [AI](#ai)
+- [Authenticators] (#authenticators)
 - [Browsers](#browsers)
 - [CDN](#cdn)
 - [Cloud](#cloud)
@@ -99,8 +100,8 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Hopsworks](https://hopsworks.ai) 🇸🇪 - AI Lakehouse and MLOps Platform. To Develop, Monitor and Maintain AI Systems.
 - [Trint](https://trint.com/) 🇬🇧 - AI SaaS transcription software with collaborative text editing and commenting tools, document creation with multiple transcription excerpts, and realtime + multi-language transcription capabilities. Specialized in providing services for news and media enterprises.
 
-### Authenticators (2FA)
-- [Aegis Authenticator](https://getaegis.app/) 🇳🇱 - Free, secure, and open-source 2FA authenticator for Android. 
+### Authenticators
+- [Aegis Authenticator](https://getaegis.app/) 🇳🇱 - Free, secure, and open-source MFA authenticator for Android. 
 
 ### Browsers
 - [Falkon](https://www.falkon.org/) 🇩🇪 - Lightweight Qt-based browser
