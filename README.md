@@ -49,7 +49,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 ---
 ## Index
 - [AI](#ai)
-- [Authenticators] (#authenticators)
+- [Authenticators](#authenticators)
 - [Browsers](#browsers)
 - [CDN](#cdn)
 - [Cloud](#cloud)
