@@ -212,6 +212,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Bunny DNS](https://bunny.net/dns) 🇸🇮
 - [ClouDNS](https://www.cloudns.net) 🇧🇬
 - [deSEC](https://www.desec.io) 🇩🇪
+- [DNS4EU](https://www.joindns4.eu) 🇪🇺 - Supported by the European Commission.
 - [EuroDNS DNS](https://www.eurodns.com) 🇱🇺
 - [Exoscale DNS](https://www.exoscale.com/dns) 🇨🇭
 - [Gcore](https://gcore.com/dns) 🇱🇺
