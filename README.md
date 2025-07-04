@@ -217,6 +217,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Exoscale DNS](https://www.exoscale.com/dns) 🇨🇭
 - [Gcore](https://gcore.com/dns) 🇱🇺
 - [Hostinger](https://www.hostinger.com/) 🇱🇹
+- [Nanelo](https://nanelo.com/) 🇩🇪 - Operates a European cluster of DNS nameservers.
 - [RcodeZero](https://www.rcodezero.at) 🇦🇹
 - [Scaleway DNS](https://www.scaleway.com/dns) 🇫🇷
 - [Quad9](https://quad9.net/) 🇨🇭
