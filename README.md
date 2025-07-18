@@ -151,7 +151,6 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [noris network AG](https://www.noris.de/en/it-services/cloud-services/) 🇩🇪 - Cloud platforms and services specialized for legally regulated companies.
 
 ### Communication Tools
-- [Alugha](https://alugha.com/) 🇩🇪 - Multilingual video hosting platform.
 - [Element (Matrix)](https://element.io/) 🇬🇧 - Secure messaging via the Matrix protocol.
 - [Ginlo](https://www.ginlo.net/) 🇩🇪 -Secure messaging app.
 - [Jitsi](https://jitsi.org/) 🇫🇷 - Open-source video conferencing and chat.
