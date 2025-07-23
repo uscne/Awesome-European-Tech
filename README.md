@@ -81,7 +81,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Search Engine](#search-engine)
 - [Sustainability and Recycling](#sustainability-and-recycling)
 - [Translation Services](#translation-services)
-- [Uptime Monitoring](#Uptime-Monitoring)
+- [Uptime Monitoring](#uptime-monitoring)
 - [VPS](#vps)
 - [VPN](#vpn)
 - [Web Analytics](#web-analytics)
@@ -92,13 +92,14 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Cradle.bio](https://www.cradle.bio/) 🇳🇱 - AI-driven protein engineering for synthetic biology.
 - [Gcore](https://gcore.com/) 🇱🇺 - Edge AI, cloud, and content delivery solutions.
 - [Leya](https://www.leya.law/) 🇸🇪 - AI-powered legal research and contract analysis platform.
+- [Lumo](https://lumo.proton.me/guest)🇨🇭- The privacy-first AI assistant from Proton
 - [Mistral AI](https://mistral.ai/) 🇫🇷 - Open-source AI models for developers and enterprises.
 - [Suse](https://www.suse.com/solutions/ai/) 🇩🇪 - Enterprise-grade AI/ML solutions for open-source environments.
 - [Next Epoch](https://nextepoch.ai/) 🇳🇱 - AI platform for developing and managing AI agents with full data sovereignty.
 - [Timefold](https://timefold.ai/) 🇧🇪 - Planning AI / constraint solver for optimization problems
 - [ZenML](https://zenml.io/) 🇩🇪 - Production-Grade MLOps Systems, handling evaluation, monitoring, and deployment at scale.
 - [Hopsworks](https://hopsworks.ai) 🇸🇪 - AI Lakehouse and MLOps Platform. To Develop, Monitor and Maintain AI Systems.
-- [Trint](https://trint.com/) 🇬🇧 - AI SaaS transcription software with collaborative text editing and commenting tools, document creation with multiple transcription excerpts, and realtime + multi-language transcription capabilities. Specialized in providing services for news and media enterprises.
+- [Trint](https://trint.com/) 🇬🇧 - AI SaaS transcription software with collaborative text editing, real-time multi-language transcription, and document creation. Specialized for news and media enterprises.
 
 ### Authenticators
 - [Aegis Authenticator](https://getaegis.app/) 🇳🇱 - Free, secure, and open-source MFA authenticator for Android. 
