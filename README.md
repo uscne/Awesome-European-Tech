@@ -147,6 +147,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Scaleway](https://www.scaleway.com) 🇫🇷 - Developer-friendly cloud and bare-metal solutions.
 - [Seeweb](https://www.seeweb.it) 🇮🇹 - High-performance Italian cloud hosting.
 - [STACKIT](https://www.stackit.de) 🇩🇪 - Cloud platform for businesses.
+- [Tebi](https://www.tebi.io) 🇨🇾 - Object storage.
 - [Tresorit](https://tresorit.com/) 🇨🇭 - End-to-end encrypted file sharing for enterprises.
 - [Thalassa Cloud](https://thalassa.cloud/services/european-cloud/) 🇳🇱 - Cloud Services focussed around Kubernetes and Cloud Native.
 - [noris network AG](https://www.noris.de/en/it-services/cloud-services/) 🇩🇪 - Cloud platforms and services specialized for legally regulated companies.
