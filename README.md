@@ -359,6 +359,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [AnyType](https://anytype.io) 🇨🇭 - Open source, end-to-end encrypted alternative to Notion.
 - [Bunnyshell](https://www.bunnyshell.com/) 🇷🇴 - Environments as a Service platform for Kubernetes.
 - [CryptPad](https://cryptpad.fr/) 🇫🇷 - End-to-end encrypted collaboration suite.
+- [Diamond Forms, Flows & Docs](https://www.diamondforms.net/en) 🇫🇳🇱 - Forms & workflow automation tool.
 - [Formbricks](https://formbricks.com/) 🇩🇪 - Open-source survey and feedback tool.
 - [Joplin](https://joplinapp.org/) 🇫🇷 - Note-taking app with sync and encryption.
 - [LibreOffice](https://www.libreoffice.org/) 🇩🇪 - Free and open-source office suite.
