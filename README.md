@@ -395,6 +395,9 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Dembrane](https://www.dembrane.com/) 🇩🇰 - Company specializing in sustainable membrane technology.
 - [Orbisk](https://orbisk.com/) 🇳🇱 - AI-powered tools to reduce food waste.
 
+### Telecommunication
+- [SMS/SS7/MNP Platform](https://www.horisen.com/sms-platform/) 🇨🇭 - Leading wholesale SMS/SS7/MNP Messaging/ERP platform for mobile operators and SMS aggregators
+
 ### Translation services
 - [DeepL](https://www.deepl.com) 🇩🇪 - AI-powered translation with high accuracy.
 - [Loco](https://localise.biz/) 🇬🇧 - Loco helps you manage and integrate translations into your software.
