@@ -103,6 +103,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 
 ### Authenticators
 - [Aegis Authenticator](https://getaegis.app/) 🇳🇱 - Free, secure, and open-source MFA authenticator for Android. 
+- [Proton Authenticator](https://proton.me/authenticator) 🇨🇭 - Open source and secure MFA authenticator available on every device.
 
 ### Browsers
 - [Falkon](https://www.falkon.org/) 🇩🇪 - Lightweight Qt-based browser
@@ -273,6 +274,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Stancer](https://stancer.com/) 🇫🇷 - Simple payment solution at low prices.
 - [Starling Bank](https://www.starlingbank.com/) 🇬🇧 - Digital challenger bank.
 - [Wise (ex TransferWise)](https://wise.com/) 🇬🇧 - Low-cost international money transfers.
+- [Raisin](https://raisin.com) 🇩🇪 - Online banking platform to easily open various savings accounts at a large selection of European banks. 
 
 ### Gaming Projects
 - [GOG](https://www.gog.com/) 🇵🇱 - Digital game shop with DRM-free games only.
