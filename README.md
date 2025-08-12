@@ -20,33 +20,26 @@
 
 ## Overview
 
-**An up-to-date, community-driven list of awesome European tech alternatives!  all focused on privacy, sustainability, and innovation. The goal is to support European projects and companies (compliant with GDPR, UK GDPR, and the Swiss FADP), helping to strengthen the European tech ecosystem.**
+An up-to-date, community-made list of European tech alternatives, with a focus on privacy, sustainability, and innovation. The aim is to highlight projects and companies that meet GDPR, UK GDPR, and Swiss FADP standards, following regulations and practices that can benefit users.
 
-European software and companies often adhere to unique standards that provide significant benefits to users. These standards not only enhance user experience but also set a global benchmark for innovation, privacy, and sustainability. For example:
+Please take a look at: [Index](#index), [Acceptance Criteria](#acceptance-criteria), [Disclaimer](#disclaimer), and [Contribute](#contribute) sections
 
-- **GDPR Compliance**: European companies are required to comply with the General Data Protection Regulation (GDPR), which ensures stricter data privacy and security for users compared to many other regions, including the U.S. This regulation has become a global gold standard for data protection.
+> ### ⚠️ Temporary Notice — Companies and Organization Standing Against EU Chat Control Proposal
+>
+> It’s important to name the companies and groups that have opposed the EU ‘Chat Control’ (CSA Regulation) to demonstrate their commitment to protecting users’ privacy
+> 
+> - [Element and Other European Tech Companies - Open Letter](https://element.io/blog/open-letter-on-csa-regulation/)
+> - [Global Encryption Coalition - Joint Statement](https://www.globalencryption.org/2024/05/joint-statement-on-the-dangers-of-the-may-2024-council-of-the-eu-compromise-proposal-on-eu-csam/)
+> - [European Digital Rights (EDRi) - Open letter](https://edri.org/our-work/protecting-digital-rights-and-freedoms-in-the-legislation-to-effectively-tackle-child-abuse/)
+> - [KU Leuven & academic collaborators - Open letter](https://homes.esat.kuleuven.be/~preneel/Open_letter_CSAR_aug24_still_unacceptable.pdf)
+> - [Stop Scanning Me – Open letter signed by scientists worldwide](https://stopscanningme.eu/en/)
+>
+> Notable official statements and analyses from well-known companies on the EU Chat Control / CSA Regulation.
+> - [Wire](https://wire.com/en/blog/act-against-chat-control)
+> - [Signal](https://signal.org/blog/pdfs/upload-moderation.pdf)
+> - [Proton](https://proton.me/blog/eu-chat-control)
+> - [Tuta](https://tuta.com/blog/open-letter-against-protecteu)
 
-- **Sustainability Standards**: Many European companies prioritize eco-friendly practices, such as utilizing renewable energy, reducing carbon emissions, and adopting circular economy principles. These efforts align with the EU’s ambitious Green Deal initiatives, making them leaders in sustainable innovation.
----
-## Acceptance Criteria
-
-1. **Compliance**: Must adhere to GDPR, UK GDPR, Swiss FADP, or other relevant European data protection frameworks.
-2. **European Headquarters**: The company or project must be based in Europe.
-3. **Technology Focus** Must be a company or project that leverages technology as a core component of its operations, products, or services.
-
----
-## Disclaimer
-
-This project is not about excluding non-European products or tools. There are countless exceptional global solutions that are widely used and appreciated. The purpose of this list is to highlight and support European startups and projects that excel in areas like privacy, sustainability, and innovation. By doing so, we aim to strengthen the European tech ecosystem while fostering collaboration and inclusivity across borders. Together, we can contribute to a more diverse, resilient, and interconnected global tech landscape.
-
-Before exploring the list, we encourage you to visit the website that inspired this project: [European Alternatives](https://european-alternatives.eu/).
-
----
-## Contribute
-
-Any contributions you make are **greatly appreciated**, please refer to the [contributing file](.github/CONTRIBUTING.md). Thanks again! ❤️
-
----
 ## Index
 - [AI](#ai)
 - [Authenticators](#authenticators)
@@ -487,3 +480,19 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 - [Wide Angle Analytics](https://wideangle.co) 🇵🇱 - Privacy-first analytics with EU data hosting.
 
 ---
+
+## Acceptance Criteria
+
+1. **Compliance**: Must adhere to GDPR, UK GDPR, Swiss FADP, or other relevant European data protection frameworks.
+2. **European Headquarters**: The company or project must be based in Europe.
+3. **Technology Focus**: Must be a company or project that leverages technology as a core component of its operations, products, or services.
+
+---
+## Disclaimer
+
+This project does not aim to exclude non-European products. Many excellent global solutions are widely used and valued. The goal is to help users discover European options that excel in privacy, sustainability, and innovation, while encouraging collaboration and inclusivity across borders. Before exploring the list, we encourage you to visit the website that inspired this project: [European Alternatives](https://european-alternatives.eu/).
+
+---
+## Contribute
+
+Any contributions you make are **greatly appreciated**, please refer to the [contributing file](.github/CONTRIBUTING.md). Thanks again! ❤️
