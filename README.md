@@ -24,16 +24,14 @@ An up-to-date, community-made list of European tech alternatives, with a focus o
 
 Please take a look at: [Index](#index), [Acceptance Criteria](#acceptance-criteria), [Disclaimer](#disclaimer), and [Contribute](#contribute) sections
 
----
-
 > ### ⚠️ Temporary Notice — Companies and Organization Standing Against EU Chat Control Proposal
 >
-> I believe it's important to mention the companies and organizations that have opposed the chat control proposal, demonstrating their interest in protecting privacy.
->
-> - [Element - Open Letter on CSA Regulation](https://element.io/blog/open-letter-on-csa-regulation/)
-> - [Global Encryption Coalition](https://www.globalencryption.org/2024/05/joint-statement-on-the-dangers-of-the-may-2024-council-of-the-eu-compromise-proposal-on-eu-csam/)
-> - [European Digital Rights (EDRi)](https://edri.org/our-work/protecting-digital-rights-and-freedoms-in-the-legislation-to-effectively-tackle-child-abuse/)
-> - [KU Leuven & academic collaborators](https://homes.esat.kuleuven.be/~preneel/Open_letter_CSAR_aug24_still_unacceptable.pdf)
+> It’s important to name the companies and groups that have opposed the EU ‘Chat Control’ (CSA Regulation) to demonstrate their commitment to protecting users’ privacy
+> 
+> - [Element and Other European Tech Companies - Open Letter](https://element.io/blog/open-letter-on-csa-regulation/)
+> - [Global Encryption Coalition - Joint Statement](https://www.globalencryption.org/2024/05/joint-statement-on-the-dangers-of-the-may-2024-council-of-the-eu-compromise-proposal-on-eu-csam/)
+> - [European Digital Rights (EDRi) - Open letter](https://edri.org/our-work/protecting-digital-rights-and-freedoms-in-the-legislation-to-effectively-tackle-child-abuse/)
+> - [KU Leuven & academic collaborators - Open letter](https://homes.esat.kuleuven.be/~preneel/Open_letter_CSAR_aug24_still_unacceptable.pdf)
 > - [Stop Scanning Me – Open letter signed by scientists worldwide](https://stopscanningme.eu/en/)
 >
 > Notable official statements and analyses from well-known companies on the EU Chat Control / CSA Regulation.
@@ -41,9 +39,6 @@ Please take a look at: [Index](#index), [Acceptance Criteria](#acceptance-criter
 > - [Signal](https://signal.org/blog/pdfs/upload-moderation.pdf)
 > - [Proton](https://proton.me/blog/eu-chat-control)
 > - [Tuta](https://tuta.com/blog/open-letter-against-protecteu)
-
-
----
 
 ## Index
 - [AI](#ai)
