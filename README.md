@@ -22,7 +22,7 @@
 
 An up-to-date, community-made list of European tech alternatives, with a focus on privacy, sustainability, and innovation. The aim is to highlight projects and companies that meet GDPR, UK GDPR, and Swiss FADP standards, following regulations and practices that can benefit users.
 
-Please get a look to: [Index](#index), [Acceptance Criteria](#acceptance-criteria), [Disclaimer](#disclaimer), and [Contribute](#contribute) sections
+Please take a look at: [Index](#index), [Acceptance Criteria](#acceptance-criteria), [Disclaimer](#disclaimer), and [Contribute](#contribute) sections
 
 ---
 
@@ -34,7 +34,6 @@ Please get a look to: [Index](#index), [Acceptance Criteria](#acceptance-criteri
 > - [Global Encryption Coalition](https://www.globalencryption.org/2024/05/joint-statement-on-the-dangers-of-the-may-2024-council-of-the-eu-compromise-proposal-on-eu-csam/)
 > - [European Digital Rights (EDRi)](https://edri.org/our-work/protecting-digital-rights-and-freedoms-in-the-legislation-to-effectively-tackle-child-abuse/)
 > - [KU Leuven & academic collaborators](https://homes.esat.kuleuven.be/~preneel/Open_letter_CSAR_aug24_still_unacceptable.pdf)
-> - [Privacy International](https://privacyinternational.org/news-analysis/1007/why-we-are-opposing-eu-chat-control-proposal)
 > - [Stop Scanning Me – Open letter signed by scientists worldwide](https://stopscanningme.eu/en/)
 >
 > Notable official statements and analyses from well-known companies on the EU Chat Control / CSA Regulation.
@@ -491,12 +490,12 @@ Please get a look to: [Index](#index), [Acceptance Criteria](#acceptance-criteri
 
 1. **Compliance**: Must adhere to GDPR, UK GDPR, Swiss FADP, or other relevant European data protection frameworks.
 2. **European Headquarters**: The company or project must be based in Europe.
-3. **Technology Focus** Must be a company or project that leverages technology as a core component of its operations, products, or services.
+3. **Technology Focus**: Must be a company or project that leverages technology as a core component of its operations, products, or services.
 
 ---
 ## Disclaimer
 
-This project does not aim to exclude non-European products. Many excellent global solutions are widely used and valued. The goal is to help users discover European options that excel in privacy and sustainability, and innovation, while encouraging collaboration and inclusivity across borders. Before exploring the list, we encourage you to visit the website that inspired this project: [European Alternatives](https://european-alternatives.eu/).
+This project does not aim to exclude non-European products. Many excellent global solutions are widely used and valued. The goal is to help users discover European options that excel in privacy, sustainability, and innovation, while encouraging collaboration and inclusivity across borders. Before exploring the list, we encourage you to visit the website that inspired this project: [European Alternatives](https://european-alternatives.eu/).
 
 ---
 ## Contribute
