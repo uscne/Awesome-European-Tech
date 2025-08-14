@@ -22,11 +22,11 @@
 
 An up-to-date, community-made list of European tech alternatives, with a focus on privacy, sustainability, and innovation. The aim is to highlight projects and companies that meet GDPR, UK GDPR, and Swiss FADP standards, following regulations and practices that can benefit users.
 
-Please take a look at: [Index](#index), [Acceptance Criteria](#acceptance-criteria), [Disclaimer](#disclaimer), and [Contribute](#contribute) sections
+Please take a look at: [Index](#index), [Acceptance Criteria](#acceptance-criteria), [Disclaimer](#disclaimer), and [Contribute](#contribute) sections.
 
 > ### ⚠️ Temporary Notice — Companies and Organization Standing Against EU Chat Control Proposal
 >
-> It’s important to name the companies and groups that have opposed the EU ‘Chat Control’ (CSA Regulation) to demonstrate their commitment to protecting users’ privacy
+> It’s important to name the companies and groups that have opposed the EU ‘Chat Control’ (CSA Regulation) to demonstrate their commitment to protecting users’ privacy.
 > 
 > - [Element and Other European Tech Companies - Open Letter](https://element.io/blog/open-letter-on-csa-regulation/)
 > - [Global Encryption Coalition - Joint Statement](https://www.globalencryption.org/2024/05/joint-statement-on-the-dangers-of-the-may-2024-council-of-the-eu-compromise-proposal-on-eu-csam/)
