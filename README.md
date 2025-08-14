@@ -34,7 +34,7 @@ Please take a look at: [Index](#index), [Acceptance Criteria](#acceptance-criter
 > - [KU Leuven & academic collaborators - Open letter](https://homes.esat.kuleuven.be/~preneel/Open_letter_CSAR_aug24_still_unacceptable.pdf)
 > - [Stop Scanning Me – Open letter signed by scientists worldwide](https://stopscanningme.eu/en/)
 >
-> Notable official statements and analyses from well-known companies on the EU Chat Control / CSA Regulation.
+> Notable official statements and analyses from well-known companies.
 > - [Wire](https://wire.com/en/blog/act-against-chat-control)
 > - [Signal](https://signal.org/blog/pdfs/upload-moderation.pdf)
 > - [Proton](https://proton.me/blog/eu-chat-control)
