@@ -346,6 +346,7 @@ Please take a look at: [Index](#index), [Acceptance Criteria](#acceptance-criter
 - [Proton Pass](https://proton.me/pass) 🇨🇭
 - [uniqkey](https://www.uniqkey.eu/) 🇩🇰
 - [NordPass](https://nordpass.com/) 🇱🇹
+- [Passwork](https://passwork.pro/) 🇪🇸
 
 ### Product Information Management
 - [Quable](https://www.quable.com/en) 🇫🇷 - PIM solution for product data management
